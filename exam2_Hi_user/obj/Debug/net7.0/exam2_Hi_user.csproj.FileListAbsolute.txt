@@ -1,0 +1,15 @@
+/Users/surendavtan/Example1/exam2_Hi_user/bin/Debug/net7.0/exam2_Hi_user
+/Users/surendavtan/Example1/exam2_Hi_user/bin/Debug/net7.0/exam2_Hi_user.deps.json
+/Users/surendavtan/Example1/exam2_Hi_user/bin/Debug/net7.0/exam2_Hi_user.runtimeconfig.json
+/Users/surendavtan/Example1/exam2_Hi_user/bin/Debug/net7.0/exam2_Hi_user.dll
+/Users/surendavtan/Example1/exam2_Hi_user/bin/Debug/net7.0/exam2_Hi_user.pdb
+/Users/surendavtan/Example1/exam2_Hi_user/obj/Debug/net7.0/exam2_Hi_user.csproj.AssemblyReference.cache
+/Users/surendavtan/Example1/exam2_Hi_user/obj/Debug/net7.0/exam2_Hi_user.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surendavtan/Example1/exam2_Hi_user/obj/Debug/net7.0/exam2_Hi_user.AssemblyInfoInputs.cache
+/Users/surendavtan/Example1/exam2_Hi_user/obj/Debug/net7.0/exam2_Hi_user.AssemblyInfo.cs
+/Users/surendavtan/Example1/exam2_Hi_user/obj/Debug/net7.0/exam2_Hi_user.csproj.CoreCompileInputs.cache
+/Users/surendavtan/Example1/exam2_Hi_user/obj/Debug/net7.0/exam2_Hi_user.dll
+/Users/surendavtan/Example1/exam2_Hi_user/obj/Debug/net7.0/refint/exam2_Hi_user.dll
+/Users/surendavtan/Example1/exam2_Hi_user/obj/Debug/net7.0/exam2_Hi_user.pdb
+/Users/surendavtan/Example1/exam2_Hi_user/obj/Debug/net7.0/exam2_Hi_user.genruntimeconfig.cache
+/Users/surendavtan/Example1/exam2_Hi_user/obj/Debug/net7.0/ref/exam2_Hi_user.dll
